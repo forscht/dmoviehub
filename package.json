@@ -1,0 +1,29 @@
+{
+  "name": "dispeak",
+  "version": "1.0.0",
+  "description": "idk",
+  "main": "index.js",
+  "author": "Darshan Patel <lazy14k@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.15.3",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  },
+  "dependencies": {
+    "async": "^3.2.0",
+    "axios": "^0.21.1",
+    "bufferutil": "^4.0.3",
+    "cache-manager": "^3.4.3",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "fecha": "^4.2.1",
+    "fuse.js": "^6.4.6",
+    "humanize-duration": "^3.25.1",
+    "libsodium-wrappers": "^0.7.9",
+    "lodash": "^4.17.21",
+    "utf-8-validate": "^5.0.4",
+    "zlib-sync": "^0.1.7"
+  }
+}
